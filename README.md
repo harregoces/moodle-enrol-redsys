@@ -1,10 +1,8 @@
-Moodle "Enrollment Redsys"
+Moodle Enrollment Redsys ![screenshot](pix/logo.png "logo")
 ===============================
 
 Arrby Redsys Enrollment is an enrolment plugin that allow redsys payment.
 Redsys is a payment gateway service from Spain.
-
-![screenshot](pix/logo.png "logo Screenshot")
 
 ![screenshot](pix/screenshot.png "Settings Screenshot")
 
